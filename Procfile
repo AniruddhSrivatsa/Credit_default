@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run cred_def3.py
