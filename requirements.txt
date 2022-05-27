@@ -4,9 +4,12 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
-numpy
-scipy
-scikit-learn
-pandas
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
 flasgger==0.9.4
-streamlit
+seaborn==0.10.1
+xgboost==0.90
+streamlit==0.77.0
