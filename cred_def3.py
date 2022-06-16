@@ -75,7 +75,7 @@ for i in range(len(liss)):
     
     
     
-grb=pickle.load(open("ada_cd.pkl","rb"))
+grb=pickle.load(open("gb_cd.pkl","rb"))
 result=["This person may pay the due on time","This person may not pay the due on time"]
 
 
